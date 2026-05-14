@@ -1,0 +1,20 @@
+# Node
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+ai-service/uploads/
+
+# React build
+client/build/
+
+# Uploads
+server/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
